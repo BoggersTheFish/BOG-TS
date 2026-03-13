@@ -52,7 +52,7 @@ No GPU or large models required. Designed to run on **low-end laptops**.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/boggersthefish/BOG-TS.git
+   git clone https://github.com/BoggersTheFish/BOG-TS.git
    cd BOG-TS
    ```
 
@@ -244,4 +244,4 @@ This project is provided as-is for research and experimentation. See repository 
 
 ## Repository
 
-**GitHub**: [github.com/boggersthefish/BOG-TS](https://github.com/boggersthefish/BOG-TS)
+**GitHub**: [github.com/BoggersTheFish/BOG-TS](https://github.com/BoggersTheFish/BOG-TS)
