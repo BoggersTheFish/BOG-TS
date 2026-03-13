@@ -1,0 +1,9 @@
+.aider*
+# Generated outputs
+goat_ts_graph.json
+goat_ts_layout.png
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
